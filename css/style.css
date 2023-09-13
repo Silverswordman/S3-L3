@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
+
+#container {
+  width: 50%;
+  font-family: "Josefine Sans", sans-serif;
+  text-align: center;
+  margin-top: 10%;
+  background-color: aliceblue;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2em;
+}
+
+div h1 {
+  display: inline-block;
+  width: 400px;
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
+  background-color: lightskyblue;
+  border-radius: 3em;
+}
+input,
+label {
+  font-size: 1.2em;
+  margin: 1em;
+}
+
+#task-list {
+  background-color: rgb(233, 244, 245);
+  width: 300px;
+  display: inline-block;
+  text-align: left;
+}
+
+.new-task-class {
+  background-color: lightskyblue;
+  margin: 2em;
+  border-radius: 1em;
+  font-weight: bold;
+  padding: 1em;
+}
+.new-task-class p {
+  display: inline-block;
+}
